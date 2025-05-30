@@ -125,7 +125,7 @@ body{
         font-size: 1rem;
     }
 }
-#poop2 img{
+#home img{
     width: 450px;
     height: 450px;
     border-radius: 60%;
@@ -134,7 +134,7 @@ body{
     box-shadow: 1px 1px 20px #012290f7,
             1px 1px 40px #0053b8f7;
 }
-#poop2{
+#home{
     display: flex;
     gap: 10%;
     padding: 10%;
